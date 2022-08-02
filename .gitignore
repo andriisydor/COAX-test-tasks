@@ -1,3 +1,7 @@
+task 1/venv/
+task 1/.idea/
+task 1/__pycache__/
+
 task 2/venv/
 task 2/.idea/
 task 2/__pycache__/
